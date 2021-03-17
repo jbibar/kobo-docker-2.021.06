@@ -1,0 +1,12 @@
+.vols/
+log/
+backups/
+secrets/
+build
+docker-compose.yml
+.transifexrc
+.idea/*
+*.override.yml
+start-env.sh
+stop-env.sh
+nginx/maintenance/index.html
